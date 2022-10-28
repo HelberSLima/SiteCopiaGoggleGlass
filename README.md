@@ -1,5 +1,5 @@
 # SiteCopiaGoggleGlass
 
-Este site mostra como seria se o oculos google glass
+Este site mostra como seria se o óculos google glass
 
 todos os direitos a Google
